@@ -20,11 +20,13 @@ It is a research project, not a programme, pilot, deployment, or claim that a na
 
 ## Governing Documents
 
-- [Organization Roadmap](../../docs/03-operations-and-development/ORGANIZATION-ROADMAP.md)
-- [Research & Innovation Framework](../../docs/03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md)
-- [Partnership & Stakeholder Framework](../../docs/03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
-- [Risk Management Framework](../../docs/03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md)
-- [Legal & Institutional Readiness](../../docs/04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md)
+This repository is separate from the organization's governance repository, so these are absolute links rather than relative paths:
+
+- [Organization Roadmap](https://github.com/AUREX-DIGITAL-SOLUTIONS/governance/blob/main/docs/03-operations-and-development/ORGANIZATION-ROADMAP.md)
+- [Research & Innovation Framework](https://github.com/AUREX-DIGITAL-SOLUTIONS/governance/blob/main/docs/03-operations-and-development/RESEARCH-AND-INNOVATION-FRAMEWORK.md)
+- [Partnership & Stakeholder Framework](https://github.com/AUREX-DIGITAL-SOLUTIONS/governance/blob/main/docs/03-operations-and-development/PARTNERSHIP-AND-STAKEHOLDER-FRAMEWORK.md)
+- [Risk Management Framework](https://github.com/AUREX-DIGITAL-SOLUTIONS/governance/blob/main/docs/03-operations-and-development/RISK-MANAGEMENT-FRAMEWORK.md)
+- [Legal & Institutional Readiness](https://github.com/AUREX-DIGITAL-SOLUTIONS/governance/blob/main/docs/04-readiness-and-baseline/LEGAL-AND-INSTITUTIONAL-READINESS.md)
 
 ## Working Rule
 
